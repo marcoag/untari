@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/untari.com/static/css/main.feca0568.chunk.css",
+    "main.js": "/untari.com/static/js/main.c2faa2bf.chunk.js",
+    "main.js.map": "/untari.com/static/js/main.c2faa2bf.chunk.js.map",
+    "runtime-main.js": "/untari.com/static/js/runtime-main.4b9efd96.js",
+    "runtime-main.js.map": "/untari.com/static/js/runtime-main.4b9efd96.js.map",
+    "static/js/2.1334b504.chunk.js": "/untari.com/static/js/2.1334b504.chunk.js",
+    "static/js/2.1334b504.chunk.js.map": "/untari.com/static/js/2.1334b504.chunk.js.map",
+    "index.html": "/untari.com/index.html",
+    "precache-manifest.7c2183f23dab7d3e04ea3b8195e0332f.js": "/untari.com/precache-manifest.7c2183f23dab7d3e04ea3b8195e0332f.js",
+    "service-worker.js": "/untari.com/service-worker.js",
+    "static/css/main.feca0568.chunk.css.map": "/untari.com/static/css/main.feca0568.chunk.css.map",
+    "static/js/2.1334b504.chunk.js.LICENSE.txt": "/untari.com/static/js/2.1334b504.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b9efd96.js",
+    "static/js/2.1334b504.chunk.js",
+    "static/css/main.feca0568.chunk.css",
+    "static/js/main.c2faa2bf.chunk.js"
+  ]
+}
