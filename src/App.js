@@ -16,8 +16,8 @@ class App extends Component {
             <Switch>
              <Route path="/" component={Home} exact/>
              <Route path="/blog" component={Blog} />
-          {/*   <Route path="/about" component={About}/>*/}
-           {/*  <Route path="/contact" component={Contact}/> */}
+             <Route path="/about" component={About}/>
+             <Route path="/contact" component={Contact}/> 
            </Switch>
         </div> 
       </BrowserRouter>
