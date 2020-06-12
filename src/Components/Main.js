@@ -1,9 +1,5 @@
 import React from 'react';
-import { Switch, Route, Link, NavLink } from 'react-router-dom';
-import Home from './Home';
-import About from './About';
-import Contact from './Contact';
-
+import {  NavLink } from 'react-router-dom';
 
 const Main = () => {
     return(
@@ -12,7 +8,7 @@ const Main = () => {
                <div className="site-wrapper-inner">
                 <div className="inner cover">
                 <h1 className="inner-heading">Welcome to Untari personal website</h1>
-                <a href="#" class="btn btn-info" role="button"><NavLink to="Home">Click here to enter</NavLink></a>
+                <button type="button" className="btn btn-info"><NavLink to="Home">Click here to enter</NavLink></button>
                 </div>
               </div>
             </div>

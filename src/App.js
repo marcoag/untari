@@ -12,7 +12,7 @@ class App extends Component {
     return (      
         <React.Fragment>
                 <BrowserRouter>
-                   <div class="bg-image">
+                   <div>
                        <Switch>
                             <Route exact path="/" component={Main} />
                             <Route path="/home" component={Home} />

@@ -3,12 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import { BrowserRouter as Router } from 'react-router-dom';
-import Home from './Components/Home';
-import Main from './Components/Main';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <Router basename={process.env.PUBLIC_URL}>
+  <Router basename={process.env.Home_URL}>
     <App />
   </Router>,
   document.getElementById('root')
