@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7069aeee8a0a3db03f0ee324c294f4fc",
+    "revision": "67b1e09e57b6e859c43391868efbd778",
     "url": "/untari.com/index.html"
   },
   {
-    "revision": "3db08959c1fe9d26f4bf",
-    "url": "/untari.com/static/css/main.f4492ad6.chunk.css"
+    "revision": "76ab6c1890b63f36abf0",
+    "url": "/untari.com/static/css/main.0dc9bd43.chunk.css"
   },
   {
     "revision": "5165478c450c8c747208",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/untari.com/static/js/2.ed3f0902.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3db08959c1fe9d26f4bf",
-    "url": "/untari.com/static/js/main.35479022.chunk.js"
+    "revision": "76ab6c1890b63f36abf0",
+    "url": "/untari.com/static/js/main.0c8f0321.chunk.js"
   },
   {
     "revision": "df9fd43cf6d15c8eae2a",
