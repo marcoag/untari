@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/untari.com/static/css/main.b188887f.chunk.css",
-    "main.js": "/untari.com/static/js/main.84597425.chunk.js",
-    "main.js.map": "/untari.com/static/js/main.84597425.chunk.js.map",
+    "main.css": "/untari.com/static/css/main.f4492ad6.chunk.css",
+    "main.js": "/untari.com/static/js/main.35479022.chunk.js",
+    "main.js.map": "/untari.com/static/js/main.35479022.chunk.js.map",
     "runtime-main.js": "/untari.com/static/js/runtime-main.4b9efd96.js",
     "runtime-main.js.map": "/untari.com/static/js/runtime-main.4b9efd96.js.map",
     "static/js/2.ed3f0902.chunk.js": "/untari.com/static/js/2.ed3f0902.chunk.js",
     "static/js/2.ed3f0902.chunk.js.map": "/untari.com/static/js/2.ed3f0902.chunk.js.map",
     "index.html": "/untari.com/index.html",
-    "precache-manifest.a5c8082d98accba6d377c76b86fcca08.js": "/untari.com/precache-manifest.a5c8082d98accba6d377c76b86fcca08.js",
+    "precache-manifest.362024f7811ab10c71e480b1c1f0796b.js": "/untari.com/precache-manifest.362024f7811ab10c71e480b1c1f0796b.js",
     "service-worker.js": "/untari.com/service-worker.js",
-    "static/css/main.b188887f.chunk.css.map": "/untari.com/static/css/main.b188887f.chunk.css.map",
+    "static/css/main.f4492ad6.chunk.css.map": "/untari.com/static/css/main.f4492ad6.chunk.css.map",
     "static/js/2.ed3f0902.chunk.js.LICENSE.txt": "/untari.com/static/js/2.ed3f0902.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4b9efd96.js",
     "static/js/2.ed3f0902.chunk.js",
-    "static/css/main.b188887f.chunk.css",
-    "static/js/main.84597425.chunk.js"
+    "static/css/main.f4492ad6.chunk.css",
+    "static/js/main.35479022.chunk.js"
   ]
 }
