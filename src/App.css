@@ -5,12 +5,12 @@ a:hover {
 }
 
 /* Custom default button */
-.btn-default,
-.btn-default:hover,
-.btn-default:focus {
-  color: #333;
+.btn-success,
+.btn-success:hover,
+.btn-success:focus {
+  color: green;
   text-shadow: none; /* Prevent inheritence from `body` */
-  background-color: #fff;
+  background-color: #4CAF50;
   border: 1px solid #fff;
 }
 
@@ -113,6 +113,7 @@ body {
 .cover .btn-lg {
   padding: 10px 20px;
   font-weight: bold;
+   background-color: #4CAF50;
 }
 
 /*
